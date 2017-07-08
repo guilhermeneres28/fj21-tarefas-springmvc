@@ -5,6 +5,37 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+
+<style>
+	body {
+  font: 75%/1.6 "Myriad Pro", Frutiger, "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, sans-serif;
+}
+table {
+  border-collapse: collapse;
+  width: 50em;
+  border: 1px solid #666;
+}
+tr:hover {
+  background-color:#3d80df;
+  color: #fff;
+}
+th tr:hover {
+  background-color: transparent;
+  color: inherit;
+}
+tr:nth-child(even) {
+    background-color: #edf5ff;
+}
+th {
+  font-weight: normal;
+  text-align: left;
+}
+th, td {
+  padding: 0.1em 1em;
+}
+
+
+</style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Lista de Tarefas</title>
 </head>
