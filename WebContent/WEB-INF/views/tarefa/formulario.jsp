@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Teste Spring</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h2>Olá mundo com Spring mvc</h2>
+	<h3>Adicinar tarefas</h3>
+	<form action="adicionaTarefa" method="post">
+		Descricao: <br />
+		<textarea name="descricao" rows="5" cols="100"></textarea><br />
+		<input type="submit" value"Adicionar">
+	</form>
 </body>
 </html>
