@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Login</title>
+<link type="text/css" href="resources/css/tarefas.css" rel="stylesheet" />
 </head>
 <body>
 	<h2>Pagina de Login das tarefas</h2>

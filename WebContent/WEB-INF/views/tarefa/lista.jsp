@@ -6,36 +6,7 @@
 <html>
 <head>
 <script type="text/javascript" src="resources/js/jquery.js"></script>	
-<style>
-	body {
-  font: 75%/1.6 "Myriad Pro", Frutiger, "Lucida Grande", "Lucida Sans", "Lucida Sans Unicode", Verdana, sans-serif;
-}
-table {
-  border-collapse: collapse;
-  width: 50em;
-  border: 1px solid #666;
-}
-tr:hover {
-  background-color:#3d80df;
-  color: #fff;
-}
-th tr:hover {
-  background-color: transparent;
-  color: inherit;
-}
-tr:nth-child(even) {
-    background-color: #edf5ff;
-}
-th {
-  font-weight: normal;
-  text-align: left;
-}
-th, td {
-  padding: 0.1em 1em;
-}
-
-
-</style>
+<link type="text/css" href="resources/css/tarefas.css" rel="stylesheet" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Lista de Tarefas</title>
 </head>
